@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**ImSeenOne/ImSeenOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack Developer by day ☼ and a sportist by night ☾
 
-Here are some ideas to get you started:
+Java Full-Stack Developer;<br>
+Entrepreneur, selling custom software on the background 🥷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My backend stack ⚙️
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,git,github,gradle,hibernate,java,laravel,mysql,php,rabbitmq,spring)](https://skillicons.dev)
+
+#### My frontend stack 🌌
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,electron,html,css,js,pug)](https://skillicons.dev)
+
+#### Currently learning 👨🏻‍💻
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kafka,fastapi)](https://skillicons.dev)
+
+- 📫 Reach me: [cristianramirezdev@hotmail.com](mail:cristianramirezdev@hotmail.com)
+- ⚡️ Fun fact: I have never ever seen a whole Harry Potter movie!
