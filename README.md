@@ -11,7 +11,7 @@ Entrepreneur, selling custom software on the background 🥷
 #### My frontend stack 🌌
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,electron,html,css,js,pug)](https://skillicons.dev)
 
-#### Currently learning 👨🏻‍💻
+#### Currently, with a porpuse to learn (but not actively learning because of work load): 👨🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,kafka,fastapi)](https://skillicons.dev)
 
 - 📫 Reach me: [cristianramirezdev@hotmail.com](mail:cristianramirezdev@hotmail.com)
