@@ -6,7 +6,7 @@ I'm a Java Backend Engineer with 6+ years of experience building, modernizing, a
 
 I enjoy designing secure APIs, improving legacy systems, mentoring developers, and building products that feel solid in production.
 
-Outside of work, I create music as **TYPO** and I'm currently building software ideas around music, automation, and creative workflows.
+Outside of work, I create music and I'm currently building software ideas around music, automation, and creative workflows.
 
 #### Backend & Cloud ⚙️
 
