@@ -10,7 +10,7 @@ Outside of work, I create music and I'm currently building software ideas around
 
 #### Backend & Cloud ⚙️
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,cpp,git,github,gradle,hibernate,java,mysql,rabbitmq,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,cpp,kafka,git,github,gradle,hibernate,java,mysql,rabbitmq,spring)](https://skillicons.dev)
 
 #### Frontend & Product UI 🌌
 
@@ -18,7 +18,7 @@ Outside of work, I create music and I'm currently building software ideas around
 
 #### Exploring / Interested in 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,tauri,kafka,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,tauri,fastapi)](https://skillicons.dev)
 
 * 📫 Reach me: [cristianramirezdev@hotmail.com](mailto:cristianramirezdev@hotmail.com)
 * ⚡ Fun fact: I have never watched a full Harry Potter movie.
